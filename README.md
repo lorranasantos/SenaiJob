@@ -2,7 +2,7 @@
 
 ### Linguagens e ferramentas utilizadas
 
-* Linguagem e framework: Javascript - ReactJS
+* Linguagem e framework: TypeScript - ReactJS
 
 
 ### Pré-requisitos necessários para rodar o projeto
