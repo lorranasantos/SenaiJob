@@ -29,9 +29,9 @@ export function Home(){
                 <Information>
                     <About>
                         <JobInformation title="Responsabilidades e atribuições" content="aaaa" />
-                        <JobInformation title="Local de Trabalho" content="aaaa" />
-                        <JobInformation title="Horário"  content="Lorem ipsum dolor sit amet consectetur adipisicing"/>
-                        <JobInformation title="Benefícios" content="Lorem ipsum dolor sit amet consectetur adipisicing elit. "/>            
+                        <JobInformation title="Local de Trabalho" content="Rua Helton Silva" />
+                        <JobInformation title="Horário"  content="Seg-Sex"/>
+                        <JobInformation title="Benefícios" content="Vale Transporte "/>            
                     </About>
                     <Observation>
                         <Requirements>
@@ -50,7 +50,7 @@ export function Home(){
                             </div>
                         </Requirements>
                         <JobInformation title="Salário" content="1200"/> 
-                        <JobInformation title="Observações" content="Lorem ipsum dolor sit amet consectetur adipisicing elit."/>    
+                        <JobInformation title="Observações" content="Para todos"/>    
                     </Observation>
                 </Information> 
                 <Body>
